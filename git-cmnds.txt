@@ -2,3 +2,6 @@ try { . "c:\Users\BURHAN\AppData\Lo...
    2 git remote add origin https://githu... 
    3 git branch -M main
    4 git push -u origin main
+
+OKAY STFU ( This one is something new from github )
+lets go ! now pull this change in my local.
